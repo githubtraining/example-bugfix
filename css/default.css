@@ -3,8 +3,7 @@ body{
     color: #222;
 }
 
-h1,h2,h3,h4,h5, /*Example syntax error*/
-{
+h1,h2,h3,h4,h5{
     font-weight: bold;
     text-align: center;
     color: #333333;
