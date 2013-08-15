@@ -6,6 +6,7 @@ body{
 h1,h2,h3,h4,h5{
     font-weight: bold;
     text-align: center;
+    text-decoration: underline;
     color: #333333;
 }
 
@@ -14,5 +15,5 @@ article{
 }
 
 p{
-    font-size: 1.2em;
+    font-size: 1em;
 }
