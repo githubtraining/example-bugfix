@@ -10,6 +10,10 @@ h1,h2,h3,h4,h5, /*Example syntax error*/
     color: #333333;
 }
 
+article{
+    padding: .5em;
+}
+
 p{
     font-size: 1.2em;
 }
